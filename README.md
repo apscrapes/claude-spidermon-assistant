@@ -14,7 +14,7 @@ Usage :
 
 Example Prompt: 
 
-To CLaude Code :
+To Claude Code :
 ```
 This is an item from my scrapy run, help me setup spider (using spidermon-assistant skill)
 
